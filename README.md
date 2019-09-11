@@ -17,3 +17,5 @@ Once it is running, you can access it in a browser at [http://localhost:3000](ht
 Adding any changes in the Github will trigger the build, for example adding line no. 17 will trigger a new build.
 
 Need to create a new trigger whenever changes are made, but by adding the line 17, the trigger didn't happen, need to check if the trigger happens by saving the line 19.
+
+Manually did build now for the line 19, need to check for the line 21 by making changes in Jenkins>configure>github tab>poll scm.
