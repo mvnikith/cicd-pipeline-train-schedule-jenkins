@@ -15,3 +15,5 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 Adding any changes in the Github will trigger the build, for example adding line no. 17 will trigger a new build.
+
+Need to create a new trigger whenever changes are made, but by adding the line 17, the trigger didn't happen, need to check if the trigger happens by saving the line 19.
